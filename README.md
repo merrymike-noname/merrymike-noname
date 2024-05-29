@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merrymike-noname&label=Profile%20views&color=0e75b6&style=flat" alt="merrymike-noname" /> </p>
 
-- 🔭 I’m currently working on [Library Accounting Webapp](https://github.com/merrymike-noname/LibraryAccountingWebapp)
+- 🔭 I’m currently working on [match-metrics](https://github.com/merrymike-noname/match-metrics)
 
-- 🌱 I’m currently learning **Spring Framework & Hibernate**
+- 🌱 I’m currently learning **Spring Security & Microservice architecture**
 
 - 👨‍💻 All of my projects are available at [my repositories page](https://github.com/merrymike-noname?tab=repositories)
 
